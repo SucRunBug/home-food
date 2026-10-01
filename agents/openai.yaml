@@ -1,0 +1,4 @@
+interface:
+  display_name: "我的家常菜助手"
+  short_description: "只从你验证成功的菜谱里推荐家常菜，列出原材料和最简制作步骤"
+  default_prompt: "使用 $home-food，从我验证过的菜谱里推荐一道今晚做的菜，列出原材料和最简步骤。"
