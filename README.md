@@ -78,7 +78,7 @@
 | [苹果清炖牛肋条](recipes/apple-beef-ribs.md) | 已验证 | 电饭煲，煮饭键，2 小时 | — |
 | [肥牛滑蛋](recipes/beef-scrambled-eggs.md) | 草稿 | 炒锅，加盖煮 2 分钟 | [查看](https://xhslink.cn/o/8dhOKyFwkhV) |
 | [蒜香肥牛口蘑](recipes/garlic-beef-mushrooms.md) | 草稿 | 平底锅 | [查看](https://xhslink.cn/o/e8M95yZSh2) |
-| [芹菜炒牛肉](recipes/celery-stir-fried-beef.md) | 草稿 | 炒锅，腌制半小时左右 | [查看](https://xhslink.cn/o/5Jt61QkXdgx) |
+| [芹菜炒牛肉](recipes/celery-stir-fried-beef.md) | 已验证 | 炒锅，腌制半小时左右 | [查看](https://xhslink.cn/o/5Jt61QkXdgx) |
 
 ## 作为 Skill 使用
 
