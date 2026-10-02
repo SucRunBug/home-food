@@ -77,6 +77,8 @@
 | --- | --- | --- | --- |
 | [苹果清炖牛肋条](recipes/apple-beef-ribs.md) | 已验证 | 电饭煲，煮饭键，2 小时 | — |
 | [肥牛滑蛋](recipes/beef-scrambled-eggs.md) | 草稿 | 炒锅，加盖煮 2 分钟 | [查看](https://xhslink.cn/o/8dhOKyFwkhV) |
+| [蒜香肥牛口蘑](recipes/garlic-beef-mushrooms.md) | 草稿 | 平底锅 | [查看](https://xhslink.cn/o/e8M95yZSh2) |
+| [芹菜炒牛肉](recipes/celery-stir-fried-beef.md) | 草稿 | 炒锅，腌制半小时左右 | [查看](https://xhslink.cn/o/5Jt61QkXdgx) |
 
 ## 作为 Skill 使用
 
@@ -120,7 +122,9 @@ home-food/
 ├── agents/openai.yaml      Skill 在 Codex 中的显示信息
 ├── recipes/                你提供的菜谱，唯一菜谱来源
 │   ├── apple-beef-ribs.md
-│   └── beef-scrambled-eggs.md
+│   ├── beef-scrambled-eggs.md
+│   ├── celery-stir-fried-beef.md
+│   └── garlic-beef-mushrooms.md
 ├── references/
 │   ├── video-import.md     视频导入和菜谱提取流程
 │   └── video-reading.md    成功路径、换电脑检查和故障处理
