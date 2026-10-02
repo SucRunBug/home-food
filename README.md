@@ -98,6 +98,18 @@ git clone https://github.com/SucRunBug/home-food.git ~/.codex/skills/home-food
 
 安装副本和项目原目录是不同文件夹。以实际调用的 Skill 文件夹中的 `recipes/` 为准，补充菜谱时修改该文件夹。
 
+### 换一台电脑看视频
+
+拉取最新版完整仓库，并在 Codex 中打开这个项目，或安装完整 Skill 文件夹。不要只复制 `SKILL.md`；视频读取工具和说明也需要一起带过去。新电脑需要 Python 3.9 或更新版本、FFmpeg 和 FFprobe，以及能实际查看本地图片的 Codex 工具；音频讲解还需要可用的转写能力。
+
+可以直接对 Codex 说：
+
+> 使用 home-food，先按视频读取说明检查当前电脑，再读取这个视频并整理菜谱：[视频链接]
+
+之前「肥牛滑蛋」读取成功的路径已做成配套工具：展开小红书分享链接 → 读取手机分享页 → 取得当前视频地址 → 下载 → 抽帧并查看字幕和操作。那次依靠画面与嵌入字幕，没有使用语音转写。换电脑时会重新取得媒体地址，不能复用旧电脑上可能过期的临时地址。
+
+具体步骤、环境检查和失败处理见 [视频读取与换电脑复用说明](references/video-reading.md)。小红书下载工具只处理用户给出的该平台链接；通用抽帧工具可以处理已经取得的其他平台视频和本地视频。登录要求、视频删除或当前工具能力不足时，会说明实际限制。
+
 ## 文件结构
 
 ```text
@@ -109,7 +121,13 @@ home-food/
 ├── recipes/                你提供的菜谱，唯一菜谱来源
 │   ├── apple-beef-ribs.md
 │   └── beef-scrambled-eggs.md
-├── references/video-import.md  视频读取和菜谱提取流程
+├── references/
+│   ├── video-import.md     视频导入和菜谱提取流程
+│   └── video-reading.md    成功路径、换电脑检查和故障处理
+├── scripts/
+│   ├── fetch_xhs_video.py  小红书手机分享页视频下载
+│   └── prepare_video.py    视频检查、完整画面、联系表和音频
+├── tests/test_video_reader.py  视频读取工具的离线检查
 └── templates/
     ├── intake.md           用户简略录入模板：菜名、基础食材、参考视频
     └── recipe.md           助手整理后的菜谱保存格式，不参与推荐
