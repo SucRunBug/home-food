@@ -1,6 +1,5 @@
 ---
 name: 芹菜炒牛肉
-verified: true
 reference_video: "https://xhslink.cn/o/5Jt61QkXdgx"
 ---
 

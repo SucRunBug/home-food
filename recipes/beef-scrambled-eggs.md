@@ -1,6 +1,5 @@
 ---
 name: 肥牛滑蛋
-verified: false
 reference_video: "https://xhslink.cn/o/8dhOKyFwkhV"
 ---
 

@@ -1,6 +1,5 @@
 ---
 name: 苹果清炖牛肋条
-verified: true
 ---
 
 # 苹果清炖牛肋条

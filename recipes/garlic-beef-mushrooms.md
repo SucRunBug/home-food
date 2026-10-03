@@ -1,6 +1,5 @@
 ---
 name: 蒜香肥牛口蘑
-verified: false
 reference_video: "https://xhslink.cn/o/e8M95yZSh2"
 ---
 
