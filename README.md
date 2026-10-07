@@ -81,6 +81,7 @@
 | [蒜香肥牛口蘑](recipes/garlic-beef-mushrooms.md) | 平底锅 | [查看](https://xhslink.cn/o/e8M95yZSh2) |
 | [芹菜炒牛肉](recipes/celery-stir-fried-beef.md) | 炒锅，腌制半小时左右 | [查看](https://xhslink.cn/o/5Jt61QkXdgx) |
 | [番茄炒蛋](recipes/tomato-scrambled-eggs.md) | 平底锅，番茄小火加盖焖约 10 分钟 | [查看](https://xhslink.cn/o/1eVZWFHaEMC) |
+| [芹菜烧豆腐](recipes/celery-braised-tofu.md) | 炒锅，中火煎制，加水后滚煮约 1—2 分钟 | [查看](https://xhslink.cn/o/22N3N6JoDW2) |
 
 ## 作为 Skill 使用
 
@@ -128,7 +129,8 @@ home-food/
 │   ├── beef-scrambled-eggs.md
 │   ├── celery-stir-fried-beef.md
 │   ├── garlic-beef-mushrooms.md
-│   └── tomato-scrambled-eggs.md
+│   ├── tomato-scrambled-eggs.md
+│   └── celery-braised-tofu.md
 ├── references/
 │   ├── video-import.md     视频导入和菜谱提取流程
 │   └── video-reading.md    成功路径、换电脑检查和故障处理
