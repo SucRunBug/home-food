@@ -79,6 +79,7 @@
 | [牛肋条汤](recipes/beef-rib-soup.md) | 电饭锅，牛肉炖 1 小时，加萝卜和土豆（或山药）后再炖 1 小时；定时锅可煮 2 小时 | [查看](https://xhslink.cn/o/22SkjHYeExF) |
 | [肥牛滑蛋](recipes/beef-scrambled-eggs.md) | 炒锅，加盖煮 2 分钟 | [查看](https://xhslink.cn/o/8dhOKyFwkhV) |
 | [蒜香肥牛口蘑](recipes/garlic-beef-mushrooms.md) | 平底锅 | [查看](https://xhslink.cn/o/e8M95yZSh2) |
+| [寿喜烧](recipes/sukiyaki.md) | 平底锅，煮开后下乌冬面，最后涮牛肉 | [查看](https://xhslink.cn/o/44pD07lxzH2) |
 | [芹菜炒牛肉](recipes/celery-stir-fried-beef.md) | 炒锅，腌制半小时左右 | [查看](https://xhslink.cn/o/5Jt61QkXdgx) |
 | [番茄炒蛋](recipes/tomato-scrambled-eggs.md) | 平底锅，番茄小火加盖焖约 10 分钟 | [查看](https://xhslink.cn/o/1eVZWFHaEMC) |
 | [芹菜烧豆腐](recipes/celery-braised-tofu.md) | 炒锅，中火煎制，加水后滚煮约 1—2 分钟 | [查看](https://xhslink.cn/o/22N3N6JoDW2) |
@@ -132,6 +133,7 @@ home-food/
 │   ├── beef-scrambled-eggs.md
 │   ├── celery-stir-fried-beef.md
 │   ├── garlic-beef-mushrooms.md
+│   ├── sukiyaki.md
 │   ├── tomato-scrambled-eggs.md
 │   ├── celery-braised-tofu.md
 │   ├── chicken-green-bean-braised-noodles.md
