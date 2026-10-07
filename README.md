@@ -82,6 +82,8 @@
 | [芹菜炒牛肉](recipes/celery-stir-fried-beef.md) | 炒锅，腌制半小时左右 | [查看](https://xhslink.cn/o/5Jt61QkXdgx) |
 | [番茄炒蛋](recipes/tomato-scrambled-eggs.md) | 平底锅，番茄小火加盖焖约 10 分钟 | [查看](https://xhslink.cn/o/1eVZWFHaEMC) |
 | [芹菜烧豆腐](recipes/celery-braised-tofu.md) | 炒锅，中火煎制，加水后滚煮约 1—2 分钟 | [查看](https://xhslink.cn/o/22N3N6JoDW2) |
+| [鸡肉豆角焖面](recipes/chicken-green-bean-braised-noodles.md) | 炒锅，中火焖 5 分钟，加面后小火焖 5 分钟，关火焖 1 分钟 | [查看](https://xhslink.cn/o/7XNN02qCLdq) |
+| [鸡肉炖豆角（配米饭）](recipes/chicken-braised-green-beans.md) | 炒锅，中火焖 5 分钟、小火焖 5 分钟，关火焖 1 分钟 | [查看](https://xhslink.cn/o/7XNN02qCLdq) |
 
 ## 作为 Skill 使用
 
@@ -130,7 +132,9 @@ home-food/
 │   ├── celery-stir-fried-beef.md
 │   ├── garlic-beef-mushrooms.md
 │   ├── tomato-scrambled-eggs.md
-│   └── celery-braised-tofu.md
+│   ├── celery-braised-tofu.md
+│   ├── chicken-green-bean-braised-noodles.md
+│   └── chicken-braised-green-beans.md
 ├── references/
 │   ├── video-import.md     视频导入和菜谱提取流程
 │   └── video-reading.md    成功路径、换电脑检查和故障处理
