@@ -85,7 +85,6 @@
 | [鸡肉豆角焖面](recipes/chicken-green-bean-braised-noodles.md) | 炒锅，中火焖 5 分钟，加面后小火焖 5 分钟，关火焖 1 分钟 | [查看](https://xhslink.cn/o/7XNN02qCLdq) |
 | [鸡肉炖豆角（配米饭）](recipes/chicken-braised-green-beans.md) | 炒锅，中火焖 5 分钟、小火焖 5 分钟，关火焖 1 分钟 | [查看](https://xhslink.cn/o/7XNN02qCLdq) |
 | [台式三杯鸡](recipes/taiwanese-three-cup-chicken.md) | 平底锅，浸泡半小时，腌制 15 分钟 | [查看](https://xhslink.cn/o/7kCppBXpJrI) |
-| [台湾冬瓜茶](recipes/taiwanese-winter-melon-tea.md) | 杯子，搅拌溶解后加冰 | [查看](https://xhslink.cn/o/7kCppBXpJrI) |
 
 ## 作为 Skill 使用
 
@@ -137,8 +136,7 @@ home-food/
 │   ├── celery-braised-tofu.md
 │   ├── chicken-green-bean-braised-noodles.md
 │   ├── chicken-braised-green-beans.md
-│   ├── taiwanese-three-cup-chicken.md
-│   └── taiwanese-winter-melon-tea.md
+│   └── taiwanese-three-cup-chicken.md
 ├── references/
 │   ├── video-import.md     视频导入和菜谱提取流程
 │   └── video-reading.md    成功路径、换电脑检查和故障处理
