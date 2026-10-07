@@ -76,7 +76,7 @@
 | 菜名 | 工具与步骤时间 | 参考视频 |
 | --- | --- | --- |
 | [苹果清炖牛肋条](recipes/apple-beef-ribs.md) | 电饭煲，煮饭键，2 小时 | — |
-| [牛肋条汤](recipes/beef-rib-soup.md) | 电饭锅，牛肉炖 1 小时，加萝卜和土豆后再炖 1 小时；定时锅可煮 2 小时 | [查看](https://xhslink.cn/o/22SkjHYeExF) |
+| [牛肋条汤](recipes/beef-rib-soup.md) | 电饭锅，牛肉炖 1 小时，加萝卜和土豆（或山药）后再炖 1 小时；定时锅可煮 2 小时 | [查看](https://xhslink.cn/o/22SkjHYeExF) |
 | [肥牛滑蛋](recipes/beef-scrambled-eggs.md) | 炒锅，加盖煮 2 分钟 | [查看](https://xhslink.cn/o/8dhOKyFwkhV) |
 | [蒜香肥牛口蘑](recipes/garlic-beef-mushrooms.md) | 平底锅 | [查看](https://xhslink.cn/o/e8M95yZSh2) |
 | [芹菜炒牛肉](recipes/celery-stir-fried-beef.md) | 炒锅，腌制半小时左右 | [查看](https://xhslink.cn/o/5Jt61QkXdgx) |
