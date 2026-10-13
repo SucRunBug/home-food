@@ -86,6 +86,8 @@
 | [鸡肉豆角焖面](recipes/chicken-green-bean-braised-noodles.md) | 炒锅，中火焖 5 分钟，加面后小火焖 5 分钟，关火焖 1 分钟 | [查看](https://xhslink.cn/o/7XNN02qCLdq) |
 | [鸡肉炖豆角（配米饭）](recipes/chicken-braised-green-beans.md) | 炒锅，中火焖 5 分钟、小火焖 5 分钟，关火焖 1 分钟 | [查看](https://xhslink.cn/o/7XNN02qCLdq) |
 | [台式三杯鸡](recipes/taiwanese-three-cup-chicken.md) | 平底锅，浸泡半小时，腌制 15 分钟 | [查看](https://xhslink.cn/o/7kCppBXpJrI) |
+| [盐蒸鸡腿](recipes/salt-steamed-chicken-leg.md) | 微波炉，花椒盐高火 1 分钟，冷藏腌制 24 小时，鸡腿高火 10 分钟（较大时 15 分钟） | [查看](https://www.bilibili.com/video/BV1megr64EiR/?share_source=copy_web&vd_source=a2f539591d6c3b98ea188bc91d022da9) |
+| [山东炒鸡](recipes/shandong-stir-fried-chicken.md) | 炒锅，鸡块煸至油清亮，加开水后加盖中火焖十来分钟 | [查看](https://www.bilibili.com/video/BV1cM6cBMEU7/?spm_id_from=333.337.search-card.all.click&vd_source=86646d951d84826a4640314db345f2aa) |
 
 ## 作为 Skill 使用
 
@@ -138,7 +140,9 @@ home-food/
 │   ├── celery-braised-tofu.md
 │   ├── chicken-green-bean-braised-noodles.md
 │   ├── chicken-braised-green-beans.md
-│   └── taiwanese-three-cup-chicken.md
+│   ├── taiwanese-three-cup-chicken.md
+│   ├── salt-steamed-chicken-leg.md
+│   └── shandong-stir-fried-chicken.md
 ├── references/
 │   ├── video-import.md     视频导入和菜谱提取流程
 │   └── video-reading.md    成功路径、换电脑检查和故障处理
