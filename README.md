@@ -89,6 +89,7 @@
 | [盐蒸鸡腿](recipes/salt-steamed-chicken-leg.md) | 微波炉，花椒盐高火 1 分钟，冷藏腌制 24 小时，鸡腿高火 10 分钟（较大时 15 分钟） | [查看](https://www.bilibili.com/video/BV1megr64EiR/?share_source=copy_web&vd_source=a2f539591d6c3b98ea188bc91d022da9) |
 | [山东炒鸡](recipes/shandong-stir-fried-chicken.md) | 炒锅，鸡块煸至油清亮，加开水后加盖中火焖十来分钟 | [查看](https://www.bilibili.com/video/BV1cM6cBMEU7/?spm_id_from=333.337.search-card.all.click&vd_source=86646d951d84826a4640314db345f2aa) |
 | [油焖大虾](recipes/oil-braised-prawns.md) | 炒锅，小火加盖焖 15 分钟；虾较小时缩短焖制时间 | [查看](https://www.bilibili.com/video/BV17f4y1W7z9/?spm_id_from=333.337.search-card.all.click&vd_source=86646d951d84826a4640314db345f2aa) |
+| [低卡沙县鸡腿饭](recipes/shaxian-chicken-leg-rice.md) | 不额外放油；鸡蛋烧开后关火加盖焖 10 分钟，鸡腿最小火加盖焖 40 分钟 | [查看](https://xhslink.cn/o/5VOUeak48Jk) |
 
 ## 作为 Skill 使用
 
