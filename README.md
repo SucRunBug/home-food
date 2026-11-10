@@ -92,6 +92,7 @@
 | [低卡沙县鸡腿饭](recipes/shaxian-chicken-leg-rice.md) | 不额外放油；鸡蛋烧开后关火加盖焖 10 分钟，鸡腿最小火加盖焖 40 分钟 | [查看](https://xhslink.cn/o/5VOUeak48Jk) |
 | [黑椒小炒牛肉](recipes/black-pepper-stir-fried-beef.md) | 炒锅，最大火炒制；牛肉不上浆，先略煎再翻炒 | [查看](https://www.bilibili.com/video/BV1g7Hj6HE2P/?spm_id_from=333.1387.upload.video_card.click&vd_source=86646d951d84826a4640314db345f2aa) |
 | [大盘鸡](recipes/dapan-chicken.md) | 炒锅，煸鸡至下葱共十几分钟，加盖大火焖十几分钟，最后收汁 2 分钟 | [查看](https://www.bilibili.com/video/BV1EX4y1678X/?spm_id_from=333.1387.search.video_card.click&vd_source=86646d951d84826a4640314db345f2aa) |
+| [地三鲜](recipes/di-san-xian.md) | 炒锅，土豆中小火炸约 4 分钟，茄子大火炸约 3 分钟 | [查看](https://www.bilibili.com/video/BV1pr421K7Fq/?spm_id_from=333.337.search-card.all.click&vd_source=86646d951d84826a4640314db345f2aa) |
 
 ## 作为 Skill 使用
 
@@ -150,7 +151,8 @@ home-food/
 │   ├── oil-braised-prawns.md
 │   ├── shaxian-chicken-leg-rice.md
 │   ├── black-pepper-stir-fried-beef.md
-│   └── dapan-chicken.md
+│   ├── dapan-chicken.md
+│   └── di-san-xian.md
 ├── references/
 │   ├── video-import.md     视频导入和菜谱提取流程
 │   └── video-reading.md    成功路径、换电脑检查和故障处理
