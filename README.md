@@ -93,6 +93,7 @@
 | [黑椒小炒牛肉](recipes/black-pepper-stir-fried-beef.md) | 炒锅，最大火炒制；牛肉不上浆，先略煎再翻炒 | [查看](https://www.bilibili.com/video/BV1g7Hj6HE2P/?spm_id_from=333.1387.upload.video_card.click&vd_source=86646d951d84826a4640314db345f2aa) |
 | [大盘鸡](recipes/dapan-chicken.md) | 炒锅，煸鸡至下葱共十几分钟，加盖大火焖十几分钟，最后收汁 2 分钟 | [查看](https://www.bilibili.com/video/BV1EX4y1678X/?spm_id_from=333.1387.search.video_card.click&vd_source=86646d951d84826a4640314db345f2aa) |
 | [地三鲜](recipes/di-san-xian.md) | 炒锅，土豆小火浸炸，茄子直接炸熟，再一起复炸；最后烹入碗芡 | [查看](https://www.bilibili.com/video/BV1nU4y1e7ka/?spm_id_from=333.337.search-card.all.click&vd_source=86646d951d84826a4640314db345f2aa) |
+| [炝锅面](recipes/qiangguo-noodles.md) | 炒锅，手擀面至少煮 5 分半钟，白菜叶最多再煮 30 秒 | [查看](https://www.bilibili.com/video/BV18e411F7mu/?spm_id_from=333.788.recommend_more_video.10&trackid=web_related_0.router-related-2589621-48s8n.1794922306248.577&vd_source=86646d951d84826a4640314db345f2aa) |
 
 ## 作为 Skill 使用
 
@@ -152,7 +153,8 @@ home-food/
 │   ├── shaxian-chicken-leg-rice.md
 │   ├── black-pepper-stir-fried-beef.md
 │   ├── dapan-chicken.md
-│   └── di-san-xian.md
+│   ├── di-san-xian.md
+│   └── qiangguo-noodles.md
 ├── references/
 │   ├── video-import.md     视频导入和菜谱提取流程
 │   └── video-reading.md    成功路径、换电脑检查和故障处理
